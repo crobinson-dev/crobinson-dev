@@ -3,12 +3,12 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crobinson-dev&show_icons=true&locale=en" alt="crobinson-dev" /></p>
 
-<div class="links">
+<div class="links" align="center">
     <a href="https://linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="website"/></a>
     <a href="https://github.com/crobinson-dev"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="website"></a>
     <a href="https://crobinson.dev"><img src="https://img.shields.io/badge/Website-black?logo=framer&logoColor=ffffff" alt="website"></a>
     <a href="https://ko-fi.com/crobinson_dev"><img src="https://img.shields.io/badge/KoFi-red?logo=kofi&logoColor=ffffff" alt="website"></a>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=crobinson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="crobinson-dev" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=crobinson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="crobinson-dev" />
 </div>
 
 - 📫 How to reach me **me@crobinson.dev**
