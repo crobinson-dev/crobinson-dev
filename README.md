@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
 <h3 align="center">A passionate cybersecurity enthusiast creating projects aligned with my interests</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crobinson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="crobinson-dev" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crobinson-dev&show_icons=true&locale=en" alt="crobinson-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crobinson-dev&show_icons=true&locale=en" alt="crobinson-dev" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crobinson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="crobinson-dev" /> </p>
 
 - 📫 How to reach me **me@crobinson.dev**
 
