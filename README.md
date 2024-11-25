@@ -12,7 +12,7 @@
 </div>
 
 - 📫 How to reach me **me@crobinson.dev**
-- 👨‍💻 All of my projects are available at **https://crobinson.dev8**
+- 👨‍💻 All of my projects are available at **https://crobinson.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
